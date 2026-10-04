@@ -23,7 +23,7 @@ class SchedulerWindow:
         self.parent = parent
         self.window = tk.Toplevel(parent)
         self.window.title("Scheduled Backups")
-        self.window.geometry("950x600")
+        self.window.geometry("950x700")
         self.window.minsize(800, 500)
 
         self.bg_color = "#1e1e1e"
