@@ -40,13 +40,9 @@ Install the required Python packages:
 
 ## Usage
 
-### Standard / Interactive Mode
-
-    python BackupManager.py
-
 ### GUI Mode
 
-    python BackupManager.py -gui
+    python BackupManager.py
 
 ### Examples
 
